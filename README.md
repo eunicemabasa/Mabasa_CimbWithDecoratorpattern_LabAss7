@@ -11,4 +11,4 @@ The UpSave account offers the highest interest rate of 4.0%.
 Benefits include the "Standard Savings Account" plus "with Insurance".
 
 # UML Diagram
-![UML Class Diagram]()
+![UML Class Diagram](https://github.com/eunicemabasa/Mabasa_CimbWithDecoratorpattern_LabAss7/blob/main/CIMB%20with%20Decorator%20PATTERN.png)
